@@ -1,0 +1,18 @@
+{
+    "title": "Java Developer Interview Questions",
+    "variables": {
+        "logo": "/content/assets/favicon.ico"
+    },
+    "plugins": [
+        "collapsible-chapters", 
+        "back-to-top-button", 
+        "youtube",
+        "collapsible-menu",
+        "custom-favicon",
+        "validate-links"
+    ],
+    "pluginsConfig":
+    {
+        "favicon": "/content/assets/favicon.ico"
+    }
+}
