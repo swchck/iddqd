@@ -1,2 +1,0 @@
-# iddqd
-Interview Questions
