@@ -13,3 +13,6 @@ jobs:
       uses: zanderzhao/gitbook-action@v1.2.2
       with:
         token: ${{ secrets.PERSONAL_TOKEN }}
+        gitbook_pdf: true
+        gitbook_epub: true
+        gitbook_mobi: true
